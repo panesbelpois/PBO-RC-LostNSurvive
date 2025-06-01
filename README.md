@@ -78,3 +78,5 @@ tes/
 | 5.  | Audy Olivya Br Gurusinga  | GameDev, Programmer                                                   |
 
 **Selamat bermain dan bertahan hidup!**
+
+🎮 **Demo Game:** [Tonton di YouTube](https://youtu.be/6CqqX82VxmA)
