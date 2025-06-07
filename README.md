@@ -1,4 +1,4 @@
-# Wagon Survival Game
+# Lost and Survive
 
 Petualangan bertahan hidup di padang gurun bersama kru unikmu!  
 Game ini dibuat dengan Python dan Pygame.
@@ -79,4 +79,4 @@ tes/
 
 **Selamat bermain dan bertahan hidup!**
 
-🎮 **Demo Game:** [Tonton di YouTube]([https://youtu.be/6CqqX82VxmA](https://youtu.be/QYARYpc22Cg?si=P4ghTrPVR_huPnZy))
+🎮 **Demo Game:** [Tonton di YouTube]([https://youtu.be/6CqqX82VxmA](https://youtu.be/QYARYpc22Cg?si=P4ghTrPVR_huPnZy])
