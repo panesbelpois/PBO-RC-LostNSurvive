@@ -79,4 +79,4 @@ tes/
 
 **Selamat bermain dan bertahan hidup!**
 
-🎮 **Demo Game:** [Tonton di YouTube]([https://youtu.be/6CqqX82VxmA](https://youtu.be/QYARYpc22Cg?si=P4ghTrPVR_huPnZy])
+🎮 **Demo Game:** [Tonton di YouTube](https://youtu.be/QYARYpc22Cg?si=oABF0CXkkz_GIEf-)
