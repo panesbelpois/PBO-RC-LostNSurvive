@@ -71,7 +71,7 @@ tes/
 
 | No. | Nama                        | Pembagian Tugas                                                      |
 |-----|-----------------------------|-----------------------------------------------------------------------|
-| 1.  | Anisah Octa Rohila         | GameDev, Programmer, Lead Narrative Designer, Slides Maker           |
+| 1.  | Anisah Octa Rohila         | GameDev, Lead Programmer, Lead Narrative Designer, Pygame            |
 | 2.  | Ardiansyah Fernando        | GameDev, Lead Programmer, OOP Implementation                         |
 | 3.  | Abel Fortino               | GameDev, Programmer, Main Assets Designer                            |
 | 4.  | Ibrahim Budi Satria        | GameDev, Programmer, Assets Designer, UML                            |
